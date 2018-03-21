@@ -1,1 +1,2 @@
-this is 2ns satya file
+modifying satya1.tx
+again modified
